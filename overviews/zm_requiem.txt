@@ -1,0 +1,14 @@
+// overview description file for zm_requiem.bsp
+
+global 
+{
+	ZOOM	1.71
+	ORIGIN	-192.00 	     64.00	   896.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/zm_requiem.bmp"
+	HEIGHT	-1089.00
+}

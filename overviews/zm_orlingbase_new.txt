@@ -1,0 +1,14 @@
+// overview description file for zm_orlingbase_new.bsp
+
+global 
+{
+	ZOOM	2.89
+	ORIGIN	-206.50	-720.00	-1454.50
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/zm_orlingbase_new.bmp"
+	HEIGHT	-3252.00
+}

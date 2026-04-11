@@ -1,0 +1,12 @@
+maps/xld-zm_dust.res
+maps/xld-zm_dust.txt
+33_cityblock.wad
+sflo1.wad
+zm_mdns.wad
+xld-zm.wad
+models/varel.mdl
+models/tuscan_grass1a.mdl
+models/mietek_drzewo.mdl
+models/forge_truck.mdl
+models/ventilator.mdl
+models/by_rubble_set.mdl
